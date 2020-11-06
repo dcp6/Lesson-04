@@ -29,6 +29,18 @@ nav {
     font-family:ArialMT;
     
 }
+nav li {
+    float:left;
+    margin-right:15px;
+    list-style-type:none;
+    font-weight:800;
+    line-height:50px;
+    color:white;
+}
+nav a {
+    color:white;
+    text-decoration:none;
+}
 .hidden-header {
     display: none;
 }
@@ -41,14 +53,7 @@ nav {
     list-style-type:none;
     margin-bottom:10px;
 }
-nav li {
-    float:left;
-    margin-right:15px;
-    list-style-type:none;
-    font-weight:800;
-    line-height:50px;
-    
-}
+
 #main-and-aside {
     margin-bottom:20px;
 }
