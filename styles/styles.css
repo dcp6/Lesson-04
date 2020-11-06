@@ -14,10 +14,10 @@ header h1,h2 {
 h1 {
     font-size:68px;
     margin-bottom:20px;
-    font-family: Arial-BoldMT;
+    font-family: Arial-BoldMT, sans-serif;
 }
 h2 {
-    font-family:Arial-italicMT;
+    font-family:Arial-italicMT, sans-serif;
     font-weight:200;
 }
 nav {
@@ -26,7 +26,7 @@ nav {
     width:1200px;
     background-color: lightgray;
     padding-left:150px;
-    font-family:ArialMT;
+    font-family:ArialMT, sans-serif;
     
 }
 nav li {
@@ -47,7 +47,7 @@ nav a {
 .rates {
     margin-left:190px;
     margin-bottom:20px;
-    font-family:ArialMT;
+    font-family:ArialMT, sans-serif;
 }
 .rates li {
     list-style-type:none;
@@ -63,12 +63,12 @@ main {
     width:50%;
     float:left;
     margin-top: 25px;
-    font-family:ArialMT;
+    font-family:ArialMT, sans-serif;
 }
 p.intial-para {
     color:#9fcfdc;
     font-size:16px;
-    font-family:Arial-Black;
+    font-family:Arial-Black, sans-serif;
     font-weight:300;
 }
 .main-text {
@@ -78,11 +78,12 @@ p.intial-para {
 p a {
     color:#9fcfdc;
     text-decoration:none;
+    font-family:Arial-Black, sans-serif;
 }
 p.quote {
     color:#9fcfdc;
     font-size:22px;
-    font-family:ArialMT;
+    font-family:ArialMT, sans-serif;
 }
 main h4 {
     font-size:20px;
@@ -92,7 +93,7 @@ aside {
     margin-left:240px;
     float:left;
     width:25%;
-    font-family:ArialMT;
+    font-family:ArialMT, sans-serif;
 }
 aside p {
     font-weight:200;
@@ -100,7 +101,7 @@ aside p {
 aside a {
     color:#9fcfdc;
     text-decoration:none;
-    font-family:ArialMT;
+    font-family:ArialMT, sans-serif;
 }
 aside img {
     width:100%;
@@ -118,7 +119,7 @@ footer img {
     width:40%;
 }
 footer p {
-    font-family:ArialMT;
+    font-family:ArialMT, sans-serif;
     font-size:14px;
     margin-top:25px;
     position:relative;
