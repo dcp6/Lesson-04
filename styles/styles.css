@@ -109,7 +109,7 @@ footer {
 }
 footer img {
     position:relative;
-    left:35%;
+    left:25%;
     width:40%;
 }
 footer p {
@@ -117,7 +117,7 @@ footer p {
     font-size:14px;
     margin-top:25px;
     position:relative;
-    left:33%;
+    left:25%;
     width:45%;
 }
 
@@ -128,13 +128,12 @@ footer li {
     list-style-type:none;
     clear:both;
     margin-right:15px;   
-    position:relative;
-    left:380px;
+
 }
 footer ul {
     width:55%;
     position:relative;
-    left:-10%;
+    left:20%;
 }
 footer a {
     text-decoration:none;
@@ -143,5 +142,5 @@ footer a {
 }
 .copyright-info {
     position:relative;
-    left:40%;
+    left:25%;
 }
